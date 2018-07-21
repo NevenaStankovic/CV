@@ -1,3 +1,3 @@
-Take a look at my CV and contact me
+Take a look at my CV and feel free to contact me:
 
-[CV](https://htmlpreview.github.io/?https://github.com/NevenaStankovic/CV/blob/master/index.html)
+[CV](https://nevenastankovic.github.io/CV/)
